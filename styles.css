@@ -1,13 +1,14 @@
-head, body {
-    background-color: lightyellow;
+* {
+    background-color:slategrey;
     font-family: monospace;
     }
     h1 {
         text-transform: uppercase;
         text-align: center;
+        color:snow;
     }
     h2 {
-        color:darkgreen;
+        color:papayawhip;
         text-align: center;
     }
     table, thead, tbody {
@@ -25,6 +26,7 @@ head, body {
     td {
       border-top: 1px solid black;
       border-right: 1px solid black;
+      color: papayawhip;
     }
     name {
         font-weight: bold;
