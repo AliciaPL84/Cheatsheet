@@ -1,0 +1,31 @@
+head, body {
+    background-color: lightyellow;
+    font-family: monospace;
+    }
+    h1 {
+        text-transform: uppercase;
+        text-align: center;
+    }
+    h2 {
+        color:darkgreen;
+        text-align: center;
+    }
+    table, thead, tbody {
+      table-layout: fixed;
+      width: 100%;
+      border: 2px solid black;
+      text-align: center;
+      }
+    thead {
+      background-color:lightslategrey;
+    }
+    tbody {
+      text-align: center;
+    }
+    td {
+      border-top: 1px solid black;
+      border-right: 1px solid black;
+    }
+    name {
+        font-weight: bold;
+      }
