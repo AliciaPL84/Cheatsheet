@@ -2,7 +2,18 @@ h1 {
     text-transform: uppercase;
     text-align: center;
 }
-h2 {
+#subtitle {
     color:darkgreen;
     text-align: center;
+}
+table, th, td {
+border: 2px solid black;
+font-family: Verdana, sans-serif;
+text-align: center;
+}
+thead {
+  background-color:lightslategrey;
+}
+tbody {
+  text-align: center;
 }
